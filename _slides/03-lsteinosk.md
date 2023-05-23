@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Github Training change
+WSL change
 
 ![Robotocat](https://octodex.github.com/images/Robotocat.png)
 {: .center}
